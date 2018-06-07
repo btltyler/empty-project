@@ -5,6 +5,7 @@ const PUB_KEY =
 
 const config = {
   peers: [],
+  adminValidators: [PUB_KEY],
   staticChains: {
     main: {
       covenant: 'covenant',
