@@ -9,10 +9,7 @@ const initialState = Immutable.from({
 })
 
 const reducer = (state = initialState, action) => {
-  if (action.type.endsWith('STROBE')) {
-    return state
-  }
-  console.log(action)
+  console.log('SAMPLE PROJECT REDUCER')
 
   switch (action.type) {
     case '@@interbit/INIT':
