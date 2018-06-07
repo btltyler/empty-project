@@ -1,0 +1,17 @@
+{
+  "name": "covenant",
+  "version": "1.0.0",
+  "description": "Interbit Sample Covenant",
+  "author": "BTL",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@btlgroup/interbit-covenant-utils": "0.2.8",
+    "seamless-immutable": "^7.1.3"
+  }
+}
+

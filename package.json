@@ -1,0 +1,12 @@
+{
+  "name": "sample-project",
+  "version": "0.1.0",
+  "private": false,
+  "main": "src/index.js",
+  "dependencies": {
+    "redux": "3.7.2",
+    "seamless-immutable": "^7.1.2"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
